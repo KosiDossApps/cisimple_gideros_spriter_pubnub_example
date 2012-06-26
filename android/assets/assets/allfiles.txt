@@ -1,0 +1,8 @@
+BetaFormatHero.SCML*
+example_hero.txt*
+example_hero.png
+Spriter.lua*
+xml.lua*
+Json.lua*
+pubnub.lua*
+main.lua*
